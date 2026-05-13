@@ -1,4 +1,4 @@
-Lab 09 - Introducción a React
+# Lab 09 - Introducción a React
 📌 Descripción
 
 En este laboratorio se realizó una introducción al desarrollo de aplicaciones con React, trabajando en equipo para explorar conceptos básicos del framework, configuración del entorno y desarrollo de componentes.
